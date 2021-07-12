@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "showflicks",
+  "private_key_id": "329ace15751f1ddbf1f3110ed360475744609a45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCnXcfn64OzJZ/n\nQhHEWbG5s+P9/+XiQQHuocEIvEN91d5DmJYxogrY5tt0nzzXe2Yg8rNA0qaZKDv/\nHhReB7pJavoyfVgX3CzvZwSg0SRI3zsuXiJvOB7b/l8zy1SssegJCF6Mtij/Gj85\ns9M5KYcRW7n4AzkIkCurl25l2kXQvhNvn0SVI7ChYwVgBiybwiZMGiU1+6XgW/JW\njSQ+GKj8GpnUHMZmiMymdH8wCyed3ApankItp6wirQ5KTk5ORvlqWiirHgH/ZnKI\nM7U0eYogXsj4lxdbV+2KME3UrEccni9i3ZYzS6Kz0EJPS8tGmt0Kzhdv1z9VPTik\nv/DK5H+nAgMBAAECggEADsB43MvI9XLlB7yulTh0rlIZT+uMxycEtRRjz9HMPxyp\nNRsPbfuC6kBa6ooYkkOpqlDKFPYcQhamRyPPFsSmmk8IE4gxyhSZj1ZstYIJqTSn\n4jvg3B29tpVSrd2HrpsVwSoQL2Xk8itNlFfxz7GF2rVTjHU4QzV16+9yhx64lZ/u\n166QOSR2WP+hcrhp05K5FBMYcQQIlwbwlmZcUIFtdoOJkRMIbvvUnHY47DvNCuon\n1qaG2vygqxAh1QEgpeAREHlgvrvO6BZzBr7fpoeknKWv2n4yHx8VSQtbzkAuJf9l\nzBdz9achfrstXT8rkeEYZsiXnDUOF/HLWpnFg7ZpzQKBgQDRYeoRXdUwkuoKbzqJ\nE0mWRRh5ZVm1huuCM4nKVA007vfRLgNpV/fmztmoG3S7Vy1aw7hvVoNIZ9UtvPcQ\nZZsozJI8zSkeIhiAAzvFX+UVy46Cv7PZTWLbsz9VdHh1bNIZUZ5sOGhJlw4Pimgg\nZspXCu2lv7Vy5RLNgbdpYkPSzQKBgQDMoRb9pjP0WO1LOnUQADFFbYb/5wlCqpr6\nTbzJzLfOMhi+B6MwyHGsBF91t4LM20UnnBxsJ/pepaVtJK/TZENcewQ0oaNcol5c\nprLUDC9y1XQ6Ej2ZxxWlrVfLH27aveNcqmWbbZmTN/vq6WIdCLCrO0jcXn3r2/kU\ndNwpen2kQwKBgQCIdnFQOkCM9ONWQ6H53rkyF/xYekaaecGaTS670EX/PtQC4CNX\nD/9AzYWr+6D7zFiB9FeLMO5FTW7x7Vt0s1QJpjKVL/1hZ0VigTj+bX5n0xAhhQGZ\nWcdZexyG/G7Z0T+pQrmmvKizdaCzXjh5DaVIT5YNVcHTjRrRF37LT0D27QKBgQCX\nw8nnacMSsHmd18dGjL3+PhNn7BREK4AxsEIacQjJlwIevk9cOO2FpOCfz/DkuqN5\nkyDJXoUkeTpNzm3RHIWRK3OdDVy5sXrGwKPU/Qyb4JAJGcoyKSN28y8v6SowdbEQ\n4xfkxM6oD1d5jIpF+lH9TUTmm/ZMXaNIdrtqz/wrPQKBgDWrJZsshLzGNhNYmMkx\nmuGHk01Zk+n4mQktmEaQdZWwUWi6UovXo1kqyurJ38kzc2RVoQDQjXs3u7xkYT97\n9FQtW4umYRUX4lupl0phbdnILHSt8QgTSYmAJSjHCaL9ik4Srv5x84MF+gxl2pUf\nLR2J9CK8X8EbaOcHuRVa79Wu\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-ivfl9anp5v0sb8bb9fokumdhye@showflicks.iam.gserviceaccount.com",
+  "client_id": "115960980181463904172",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-ivfl9anp5v0sb8bb9fokumdhye%40showflicks.iam.gserviceaccount.com"
+}
